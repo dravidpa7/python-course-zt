@@ -122,7 +122,7 @@ print(f"Hi {name}, you are {age} years old.")
 
 ---
 
-## MODULE 4: Print Function (Deep Dive)
+## MODULE 2: Print Function (Deep Dive)
 
 **What it does:** Beyond basic printing, `print()` has parameters that control formatting: `sep`, `end`, and multiple ways to insert variables into text.
 
@@ -142,7 +142,7 @@ print(f"Welcome, {name}!")                 # Welcome, Dravid!
 
 ---
 
-## MODULE 5: Operators in Python
+## MODULE 3: Operators in Python
 
 **What it does:** Operators perform actions on values — math, comparisons, logic, and assignment.
 
@@ -165,7 +165,7 @@ print(a > b and b > 0)  # True (logical AND)
 
 ---
 
-## MODULE 6: Control Flow
+## MODULE 4: Control Flow
 
 **What it does:** Lets your program make decisions and run different code depending on a condition.
 
@@ -186,7 +186,7 @@ else:
 
 ---
 
-## MODULE 7: Loops in Python
+## MODULE 5: Loops in Python
 
 **What it does:** Repeats a block of code multiple times without rewriting it.
 
@@ -217,7 +217,7 @@ for i in range(10):
 
 ---
 
-## MODULE 8: Strings in Python
+## MODULE 6: Strings in Python
 
 **What it does:** Strings represent text, and Python has built-in tools to slice, search, and manipulate them.
 
@@ -237,7 +237,7 @@ print(len(text))        # 19
 
 ---
 
-## MODULE 9: Lists
+## MODULE 7: Lists
 
 **What it does:** A list stores an ordered, changeable collection of items (can hold mixed data types).
 
@@ -257,7 +257,7 @@ print(len(fruits))     # 3
 
 ---
 
-## MODULE 10: Tuples
+## MODULE 8: Tuples
 
 **What it does:** A tuple is like a list, but **immutable** — once created, its values can't be changed. Used for fixed data.
 
@@ -275,7 +275,7 @@ print(x, y)             # 10 20
 
 ---
 
-## MODULE 11: Dictionary
+## MODULE 9: Dictionary
 
 **What it does:** Stores data as **key-value pairs**, letting you look up a value by a unique key instead of a numeric index.
 
@@ -298,7 +298,7 @@ for key, value in student.items():
 
 ---
 
-## MODULE 12: Sets
+## MODULE 10: Sets
 
 **What it does:** Stores an **unordered collection of unique items** — automatically removes duplicates.
 
@@ -319,7 +319,7 @@ print(a | b)   # {1, 2, 3, 4} -> union
 
 ---
 
-## MODULE 13: Functions
+## MODULE 11: Functions
 
 ### 1. Functions Introduction
 **What it does:** A function is a reusable block of code that performs a specific task, so you don't repeat yourself.
