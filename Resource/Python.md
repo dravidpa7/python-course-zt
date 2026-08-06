@@ -1,9 +1,8 @@
 # Python Beginner's Guide
-### Modules 3 – 13 | Format for every topic: **What it does → How it works → Example**
 
 ---
 
-## MODULE 3: Basic Fundamentals of Python
+## MODULE 1: Basic Fundamentals of Python
 
 ### 1. Print("Hello World")
 **What it does:** Displays output (text/values) on the screen.
