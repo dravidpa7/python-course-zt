@@ -1,7 +1,5 @@
 # OOP Coding Tasks — Inheritance, Polymorphism, Abstraction (Medium)
 
-3 hands-on coding tasks — one per topic. He should actually write and run the code, not just predict output. Each has a problem statement, requirements, and sample input/output to test against.
-
 ---
 
 ## Task 1 — Inheritance: Employee Management
